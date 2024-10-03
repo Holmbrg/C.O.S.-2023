@@ -5,6 +5,8 @@ this code is only designed to help look at certain indicators and tell the user 
 hundreds of tokens to find a potential trading opportunity on the short term. With this said, the author of this code, or anyone who might modify the code, are not responsible for any trading losses the user might have.
 It is always important to do your own research, this is mearly a tool (which you can also modify to your liking) to help do something that would normally take longer doing yourself.
 
+The name of the python program comes from the fact that it filters through crypto tokens and finds opportunities.
+The code itself, is around 1 year old as of this update (3. October 2024). So there might be bugs, specifically since TAAPI could have updated their API, and Bitget could have changed there source code. If you find any bugs, feel free to reach out.
 
 Features
 
