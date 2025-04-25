@@ -1,5 +1,5 @@
 # C.O.S - Crypto Opportunity Scanner
-THIS PROGRAM WAS WRITTEN EARLIER 2024 - Its likely outdated and not perfectly written, as I wrote this whilst I was learning Python. I'll gladly update and take suggestions on aholmberghansen@gmail.com if theres any interest.
+THIS PROGRAM WAS WRITTEN IN 2023 AND UPDATED SLIGHTLY IN 2024 - Its likely outdated and not perfectly written, as I wrote this whilst I was learning Python. I'll gladly update and take suggestions on aholmberghansen@gmail.com if theres any interest.
 
 This script scans a list of cryptocurrency symbols to identify potential trading opportunities based on specific technical indicators. It fetches real-time data from the TAAPI.io API and Binance API, processes the 
 indicators, and outputs any findings directly to the console. Designed to help save time when day trading. This code does not offer the perfect trading strategy, as such a strategy cannot be public,
